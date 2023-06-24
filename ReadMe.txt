@@ -1,4 +1,4 @@
 ID : 2113110718
 StudentName : Aiya tutsanachaiyasit
-DateToStudy : 17-June-2023
-ClassTopic : FirstCommit
+DateToStudy : 24-June-2023
+ClassTopic : Basic Java script Part 2
